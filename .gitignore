@@ -2,3 +2,5 @@ outputs/
 models/
 train_val/
 test/
+__pycache__/
+.ipynb_checkpoints/
