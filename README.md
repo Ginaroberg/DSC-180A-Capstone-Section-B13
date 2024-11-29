@@ -18,7 +18,6 @@ To run the models:
 4. Recreate the conda environment using ```conda env create -f environment.yml```
 
 
-
 ## Notebooks
 
 The `notebooks` folder contains all the Jupyter notebooks used for model development.
