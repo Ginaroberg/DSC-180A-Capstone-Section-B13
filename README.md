@@ -6,7 +6,7 @@
 
 This project aims to replicate the results from the paper *ClimateBench v1.0: A Benchmark for Data-Driven Climate Projections*. The goal is to develop an alternative solution for climate modeling that bypasses the computational expense of Earth System Models. [ClimateBench Paper](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021MS002954)
 
----
+
 
 ## Running the Models
 
@@ -16,10 +16,10 @@ To run the models:
 2. Extract the files into the `train_val` and `test` folders, respectively.
 3. Alternatively, you can modify the file paths in `utils.py` to match your data locations.
 
----
+
 
 ## Notebooks
 
 The `notebooks` folder contains all the Jupyter notebooks used for model development.
 
----
+
