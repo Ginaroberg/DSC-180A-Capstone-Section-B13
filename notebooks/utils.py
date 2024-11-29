@@ -2,9 +2,10 @@ import numpy as np
 import pandas as pd
 import xarray as xr
 from eofs.xarray import Eof
-# data_path = './data/train_val/'
-data_path = "./train_val/"
-data_path_test = "./test/"
+
+# CONFIGURE BELOW
+data_path = "../train_val/"
+data_path_test = "../test/"
 
 min_co2 = 0.
 max_co2 = 9500
