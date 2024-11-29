@@ -15,6 +15,7 @@ To run the models:
 1. Download `train_val.tar.gz` and `test.tar.gz` from [10.5281/zenodo.5196512](https://zenodo.org/records/7064308).
 2. Extract the files into the `train_val` and `test` folders, respectively.
 3. Alternatively, you can modify the file paths in `utils.py` to match your data locations.
+4. Recreate the conda environment using ```conda env create -f environment.yml```
 
 
 
