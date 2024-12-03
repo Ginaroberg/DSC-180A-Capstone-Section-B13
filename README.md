@@ -33,7 +33,7 @@ To run the models, follow these steps:
    pip install "esem[gpflow,keras]" netcdf4
    ```
 
-    If you encounter issues with `tensorflow-probability` on macOS due to `tensorflow-macos` lagging behind the main TensorFlow releases, downgrade `tensorflow-probability` to a compatible version:
+    If you encounter issues with `tensorflow-probability` on macOS, downgrade it to a version compatible with your TensorFlow installation:
 
     ```bash
     pip install tensorflow-probability==0.24
