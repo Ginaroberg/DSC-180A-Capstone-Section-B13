@@ -39,5 +39,8 @@ To run the models, follow these steps:
     pip install tensorflow-probability==0.24
     ```
 
-    Once the environment is set up, you should be able to proceed with running the models.
+5. **Running the Code** \
+   Once the environment is set up, you should be able to proceed with running the models on a Jupyter Notebook. Each model involves
+   training that may take a long time to run if on a device lacking a CUDA capable GPU. If unable to run on environment, or runtime takes
+   too long, a pdf output has been provided of the results of running the Notebook. 
 
